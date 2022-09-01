@@ -51,7 +51,7 @@ function initGui() {
 
 /* When onResize, update the attributes width and height used by paperJS */
 function onResize() {
-  return;
+  // return;
   var canvas = PaintApp.elements.canvas;
   try {
     var image = canvas.toDataURL();
