@@ -95,7 +95,7 @@ define(["webL10n"], function (l10n) {
 				element: "#paste-button",
 				position: "bottom",
 				title: l10n.get("TutoPasteTitle"),
-				content: l10n.get("TutoPasteContent")
+				intro: l10n.get("TutoPasteContent")
 			},
 			{
 				element: "#save-image-button",
